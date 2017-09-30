@@ -11,8 +11,8 @@ export class ProfileComponent {
   /*adds education code-by-color #140956*/
   schools = [
     {
-      name: 'Generic School Name',
-      major: 'generic middle school',
+      name: 'Otto-Rommel-Realschule',
+      major: 'Mittlere Reife',
       start: new Date('2003-09-01'),
       end: new Date('2009-07-01'),
     },
